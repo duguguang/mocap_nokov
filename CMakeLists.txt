@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.5)
 project(mocap_nokov)
 
+#hello,this is a modify test
+
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
   set(CMAKE_C_STANDARD 99)
