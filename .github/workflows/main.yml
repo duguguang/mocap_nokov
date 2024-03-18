@@ -1,7 +1,7 @@
             - name: ROS 2 CI Action
   # You may pin to the exact commit or the version.
   # uses: ros-tooling/action-ros-ci@634e9ac5fb970763bd6207e31e1875d0081be71e
-  uses: ros-tooling/action-ros-ci@ro2
+  uses: ros-tooling/action-ros-ci@ros2
   with:
     # Valid JSON content to use as a colcon defaults.yaml file.
 Use a pipe to provide a multiline string.
